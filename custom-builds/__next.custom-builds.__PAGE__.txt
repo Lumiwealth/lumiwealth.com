@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/3xkw9my8-1ap1.js"],""]
+3:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/3xkw9my8-1ap1.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/3xkw9my8-1ap1.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/3xkw9my8-1ap1.js"],"MetadataBoundary"]
+7:X
+18:X
+18:C
+0:{"buildId":"U4rxKrWVWnXkiky_10yVX","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"wrap py-16 md:py-24","children":["$","div",null,{"className":"grid items-end gap-8 md:grid-cols-[1.1fr_1fr] md:gap-12","children":[["$","div",null,{"children":["$","h1",null,{"className":"text-[2.9rem] leading-[1.02] sm:text-[3.8rem] md:text-[4.4rem]","children":"When nothing else fits."}]}],["$","div",null,{"children":[["$","p",null,{"className":"max-w-md text-lg leading-7 text-ink-soft","children":"Most of the time the right answer is a tool you already pay for, set up well. When it is not, we build a small tool with your team so they can run it without us."}],["$","a",null,{"href":"https://calendly.com/d/d2kc-9gz-knn/lumiwealth-intro-call","className":"btn btn-primary mt-7","children":"Book A Call"}]]}]]}]}],["$","section",null,{"className":"rule-top bg-tint/50","children":["$","div",null,{"className":"wrap py-20 md:py-28","children":[["$","div",null,{"className":"grid items-end gap-6 md:grid-cols-[1fr_1fr] md:gap-16","children":[["$","div",null,{"children":["$","h2",null,{"className":"text-[2.1rem] leading-[1.08] sm:text-[2.75rem]","children":"What we build."}]}],["$","div",null,{"className":"max-w-xl text-lg leading-7 text-ink-soft","children":"We tell you up front when training will get you further for less. It usually does."}]]}],["$","div",null,{"className":"mt-14 grid gap-10 md:grid-cols-3","children":[["$","div","Connecting your systems",{"className":"border-t border-ink pt-5","children":[["$","h3",null,{"className":"text-2xl","children":"Connecting your systems"}],["$","p",null,{"className":"mt-2 text-[16px] leading-7 text-ink-soft","children":"Getting two tools that do not talk to each other to share information, so nobody types it twice."}]]}],["$","div","A reporting tool",{"className":"border-t border-ink pt-5","children":[["$","h3",null,{"className":"text-2xl","children":"A reporting tool"}],["$","p",null,{"className":"mt-2 text-[16px] leading-7 text-ink-soft","children":"Pulls the numbers from your exports and drafts the report the same way every month."}]]}],["$","div","An assistant for your policies",{"className":"border-t border-ink pt-5","children":[["$","h3",null,{"className":"text-2xl","children":"An assistant for your policies"}],["$","p",null,{"className":"mt-2 text-[16px] leading-7 text-ink-soft","children":"Answers staff questions from your own procedures, with the source attached."}]]}]]}],["$","p",null,{"className":"mt-12 text-[16px] text-ink-soft","children":["Start with your people first."," ",["$","$L2",null,{"href":"/training/","className":"link-u font-semibold text-blue-deep","children":"See the training program"}]]}]]}]}],["$","section",null,{"className":"bg-ink text-paper","children":["$","div",null,{"className":"wrap py-20 text-center md:py-28","children":[["$","h2",null,{"className":"mx-auto max-w-2xl text-[2.25rem] leading-tight sm:text-[3rem]","children":"Let's talk about your team."}],["$","p",null,{"className":"mx-auto mt-5 max-w-xl text-lg leading-7 text-paper/75","children":"Thirty minutes. Tell us how many people, what they do all day, and what you want different in 90 days. If we are not the right fit, we will say so."}],["$","a",null,{"href":"https://calendly.com/d/d2kc-9gz-knn/lumiwealth-intro-call","className":"btn btn-primary mt-9","children":"Book A Call"}]]}]}]],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Custom Builds | Lumiwealth"}],["$","meta","1",{"name":"description","content":"Small custom AI tools for finance and real estate teams, built when nothing on the market fits."}],["$","meta","2",{"property":"og:title","content":"Custom Builds | Lumiwealth"}],["$","meta","3",{"property":"og:description","content":"Small custom AI tools for finance and real estate teams, built when nothing on the market fits."}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13"]}]}]}],"$L14"]}],"isPartial":"$@15","staleTime":"$7","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$7","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@19","rootVaryParams":null,"needsRuntimeRequest":"$@1a"}
+1b:I[27201,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/3xkw9my8-1ap1.js"],"IconMark"]
+1c:I[39756,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/3xkw9my8-1ap1.js"],"default"]
+1d:I[37457,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/3xkw9my8-1ap1.js"],"default"]
+5:null
+a:["$","meta","4",{"property":"og:site_name","content":"Lumiwealth"}]
+b:["$","meta","5",{"property":"og:image","content":"https://lumiwealth.com/brand/lumiwealth-logo-blue-horizontal.png"}]
+c:["$","meta","6",{"property":"og:type","content":"website"}]
+d:["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}]
+e:["$","meta","8",{"name":"twitter:title","content":"Custom Builds | Lumiwealth"}]
+f:["$","meta","9",{"name":"twitter:description","content":"Small custom AI tools for finance and real estate teams, built when nothing on the market fits."}]
+10:["$","meta","10",{"name":"twitter:image","content":"https://lumiwealth.com/brand/lumiwealth-logo-blue-horizontal.png"}]
+11:["$","link","11",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+12:["$","link","12",{"rel":"icon","href":"/brand/lumiwealth-lightbulb-512.png"}]
+13:["$","$L1b","13",{}]
+14:["$","meta",null,{"name":"next-size-adjust","content":""}]
+16:["$","$1","c",{"children":[null,["$","$L1c",null,{"parallelRouterKey":"children","template":["$","$L1d",null,{}]}]]}]
+1a:true
+7:300
+7:C
+19:0
+15:"$undefined"
+17:"$undefined"
+6:"$undefined"
